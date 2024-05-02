@@ -21,6 +21,8 @@ public class OrderService {
 	@Autowired
 	private OrderRepo orderRepo;
 	
+	
+	
 	@Autowired
 	private ProductService productService;
 	
@@ -48,7 +50,10 @@ public class OrderService {
 		restTemplate.put(uri, order);
 		
 		double price=0.0;
-//		calculate total price also
+		for(int i=0;i<order.getP_id().size();i++) {
+			price+=productService.getPrice(order.getP_id().get(i))*order.getP_qty().get(i);
+		}
+		order.setTotal_price(price);
 		return orderRepo.save(order);
 	}
 

@@ -1,0 +1,220 @@
+2024-05-02T12:15:29.132+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : Executed : 2024-05-02T12:15:29.131637
+2024-05-02T12:15:29.305+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 11 Last Checked : 2024-05-02T12:15:29.118809 Last Updated : 2024-05-02T12:06:07.262706
+2024-05-02T12:15:29.306+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 11 Last Checked : 2024-05-02T12:15:29.118809 Last Updated : 2024-05-02T12:06:07.262706
+2024-05-02T12:15:29.306+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 11 Last Checked : 2024-05-02T12:15:29.118809 Last Updated : 2024-05-02T12:15:29.118809
+2024-05-02T12:17:29.319+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : Executed : 2024-05-02T12:17:29.319134600
+2024-05-02T12:17:29.324+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 11 Last Checked : 2024-05-02T12:17:29.312511 Last Updated : 2024-05-02T12:06:07.262706
+2024-05-02T12:17:29.324+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 11 Last Checked : 2024-05-02T12:17:29.312511 Last Updated : 2024-05-02T12:06:07.262706
+2024-05-02T12:17:29.324+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 11 Last Checked : 2024-05-02T12:17:29.312511 Last Updated : 2024-05-02T12:15:29.118809
+2024-05-02T12:19:29.336+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : Executed : 2024-05-02T12:19:29.336079700
+2024-05-02T12:19:29.343+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 11 Last Checked : 2024-05-02T12:19:29.329319 Last Updated : 2024-05-02T12:06:07.262706
+2024-05-02T12:19:29.343+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 11 Last Checked : 2024-05-02T12:19:29.329319 Last Updated : 2024-05-02T12:06:07.262706
+2024-05-02T12:19:29.343+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 11 Last Checked : 2024-05-02T12:19:29.329319 Last Updated : 2024-05-02T12:15:29.118809
+2024-05-02T12:21:29.355+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : Executed : 2024-05-02T12:21:29.355513400
+2024-05-02T12:21:29.360+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 11 Last Checked : 2024-05-02T12:21:29.347454 Last Updated : 2024-05-02T12:06:07.262706
+2024-05-02T12:21:29.361+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 11 Last Checked : 2024-05-02T12:21:29.347454 Last Updated : 2024-05-02T12:06:07.262706
+2024-05-02T12:21:29.361+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 11 Last Checked : 2024-05-02T12:21:29.347454 Last Updated : 2024-05-02T12:15:29.118809
+2024-05-02T12:21:55.075+05:30  INFO 1660 --- [PriceController] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-05-02T12:21:55.104+05:30  INFO 1660 --- [PriceController] [Thread-5] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-02T12:21:55.108+05:30  INFO 1660 --- [PriceController] [Thread-5] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-05-02T12:21:55.114+05:30  INFO 1660 --- [PriceController] [Thread-5] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2024-05-02T12:21:55.308+05:30  INFO 1660 --- [PriceController] [restartedMain] c.blueyonder.PriceControllerApplication  : Starting PriceControllerApplication using Java 17.0.9 with PID 1660 (C:\Users\1037792\Downloads\User\PriceController\PriceController\target\classes started by 1037792 in C:\Users\1037792\Downloads\User\PriceController\PriceController)
+2024-05-02T12:21:55.308+05:30  INFO 1660 --- [PriceController] [restartedMain] c.blueyonder.PriceControllerApplication  : No active profile set, falling back to 1 default profile: "default"
+2024-05-02T12:21:55.473+05:30  INFO 1660 --- [PriceController] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-02T12:21:55.488+05:30  INFO 1660 --- [PriceController] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 13 ms. Found 2 JPA repository interfaces.
+2024-05-02T12:21:55.586+05:30  INFO 1660 --- [PriceController] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-05-02T12:21:55.588+05:30  INFO 1660 --- [PriceController] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-02T12:21:55.588+05:30  INFO 1660 --- [PriceController] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-02T12:21:55.607+05:30  INFO 1660 --- [PriceController] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-05-02T12:21:55.607+05:30  INFO 1660 --- [PriceController] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 296 ms
+2024-05-02T12:21:55.659+05:30  INFO 1660 --- [PriceController] [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-02T12:21:55.660+05:30  INFO 1660 --- [PriceController] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2024-05-02T12:21:55.738+05:30  INFO 1660 --- [PriceController] [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-2 - Added connection org.postgresql.jdbc.PgConnection@2278d6bd
+2024-05-02T12:21:55.739+05:30  INFO 1660 --- [PriceController] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2024-05-02T12:21:55.844+05:30  INFO 1660 --- [PriceController] [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-02T12:21:55.955+05:30  WARN 1660 --- [PriceController] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-02T12:21:56.079+05:30  INFO 1660 --- [PriceController] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-05-02T12:21:56.095+05:30  INFO 1660 --- [PriceController] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-05-02T12:21:56.101+05:30  INFO 1660 --- [PriceController] [restartedMain] c.blueyonder.PriceControllerApplication  : Started PriceControllerApplication in 0.833 seconds (process running for 512.244)
+2024-05-02T12:21:56.105+05:30  INFO 1660 --- [PriceController] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-05-02T12:23:56.130+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : Executed : 2024-05-02T12:23:56.130036500
+2024-05-02T12:23:56.137+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:23:56.121706 Last Updated : 2024-05-02T12:06:07.262706
+2024-05-02T12:23:56.137+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:23:56.121706 Last Updated : 2024-05-02T12:06:07.262706
+2024-05-02T12:23:56.137+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:23:56.121706 Last Updated : 2024-05-02T12:15:29.118809
+2024-05-02T12:25:56.150+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : Executed : 2024-05-02T12:25:56.150162200
+2024-05-02T12:25:56.156+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:25:56.142906 Last Updated : 2024-05-02T12:25:56.142906
+2024-05-02T12:25:56.157+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:25:56.142906 Last Updated : 2024-05-02T12:25:56.142906
+2024-05-02T12:25:56.157+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:25:56.142906 Last Updated : 2024-05-02T12:25:56.142906
+2024-05-02T12:27:56.184+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : Executed : 2024-05-02T12:27:56.184202700
+2024-05-02T12:27:56.191+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:27:56.175084 Last Updated : 2024-05-02T12:27:56.175084
+2024-05-02T12:27:56.191+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:27:56.175084 Last Updated : 2024-05-02T12:27:56.175084
+2024-05-02T12:27:56.191+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:27:56.175084 Last Updated : 2024-05-02T12:27:56.175084
+2024-05-02T12:28:10.614+05:30  INFO 1660 --- [PriceController] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-05-02T12:28:10.636+05:30  INFO 1660 --- [PriceController] [Thread-7] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-02T12:28:10.637+05:30  INFO 1660 --- [PriceController] [Thread-7] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2024-05-02T12:28:10.643+05:30  INFO 1660 --- [PriceController] [Thread-7] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2024-05-02T12:28:10.840+05:30  INFO 1660 --- [PriceController] [restartedMain] c.blueyonder.PriceControllerApplication  : Starting PriceControllerApplication using Java 17.0.9 with PID 1660 (C:\Users\1037792\Downloads\User\PriceController\PriceController\target\classes started by 1037792 in C:\Users\1037792\Downloads\User\PriceController\PriceController)
+2024-05-02T12:28:10.841+05:30  INFO 1660 --- [PriceController] [restartedMain] c.blueyonder.PriceControllerApplication  : No active profile set, falling back to 1 default profile: "default"
+2024-05-02T12:28:11.043+05:30  INFO 1660 --- [PriceController] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-02T12:28:11.057+05:30  INFO 1660 --- [PriceController] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 13 ms. Found 2 JPA repository interfaces.
+2024-05-02T12:28:11.173+05:30  INFO 1660 --- [PriceController] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-05-02T12:28:11.175+05:30  INFO 1660 --- [PriceController] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-02T12:28:11.175+05:30  INFO 1660 --- [PriceController] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-02T12:28:11.199+05:30  INFO 1660 --- [PriceController] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-05-02T12:28:11.200+05:30  INFO 1660 --- [PriceController] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 354 ms
+2024-05-02T12:28:11.264+05:30  INFO 1660 --- [PriceController] [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-02T12:28:11.266+05:30  INFO 1660 --- [PriceController] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Starting...
+2024-05-02T12:28:11.354+05:30  INFO 1660 --- [PriceController] [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-3 - Added connection org.postgresql.jdbc.PgConnection@6a6e9a4e
+2024-05-02T12:28:11.354+05:30  INFO 1660 --- [PriceController] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Start completed.
+2024-05-02T12:28:11.468+05:30  INFO 1660 --- [PriceController] [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-02T12:28:11.581+05:30  WARN 1660 --- [PriceController] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-02T12:28:11.719+05:30  INFO 1660 --- [PriceController] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-05-02T12:28:11.738+05:30  INFO 1660 --- [PriceController] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-05-02T12:28:11.746+05:30  INFO 1660 --- [PriceController] [restartedMain] c.blueyonder.PriceControllerApplication  : Started PriceControllerApplication in 0.949 seconds (process running for 887.889)
+2024-05-02T12:28:11.749+05:30  INFO 1660 --- [PriceController] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-05-02T12:28:20.277+05:30  INFO 1660 --- [PriceController] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-05-02T12:28:20.293+05:30  INFO 1660 --- [PriceController] [Thread-11] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-02T12:28:20.294+05:30  INFO 1660 --- [PriceController] [Thread-11] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown initiated...
+2024-05-02T12:28:20.296+05:30  INFO 1660 --- [PriceController] [Thread-11] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown completed.
+2024-05-02T12:28:20.440+05:30  INFO 1660 --- [PriceController] [restartedMain] c.blueyonder.PriceControllerApplication  : Starting PriceControllerApplication using Java 17.0.9 with PID 1660 (C:\Users\1037792\Downloads\User\PriceController\PriceController\target\classes started by 1037792 in C:\Users\1037792\Downloads\User\PriceController\PriceController)
+2024-05-02T12:28:20.441+05:30  INFO 1660 --- [PriceController] [restartedMain] c.blueyonder.PriceControllerApplication  : No active profile set, falling back to 1 default profile: "default"
+2024-05-02T12:28:20.594+05:30  INFO 1660 --- [PriceController] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-02T12:28:20.605+05:30  INFO 1660 --- [PriceController] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 10 ms. Found 2 JPA repository interfaces.
+2024-05-02T12:28:20.713+05:30  INFO 1660 --- [PriceController] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-05-02T12:28:20.714+05:30  INFO 1660 --- [PriceController] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-02T12:28:20.714+05:30  INFO 1660 --- [PriceController] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-02T12:28:20.733+05:30  INFO 1660 --- [PriceController] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-05-02T12:28:20.733+05:30  INFO 1660 --- [PriceController] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 290 ms
+2024-05-02T12:28:20.782+05:30  INFO 1660 --- [PriceController] [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-02T12:28:20.784+05:30  INFO 1660 --- [PriceController] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Starting...
+2024-05-02T12:28:20.880+05:30  INFO 1660 --- [PriceController] [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-4 - Added connection org.postgresql.jdbc.PgConnection@50d5162f
+2024-05-02T12:28:20.880+05:30  INFO 1660 --- [PriceController] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Start completed.
+2024-05-02T12:28:20.964+05:30  INFO 1660 --- [PriceController] [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-02T12:28:21.049+05:30  WARN 1660 --- [PriceController] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-02T12:28:21.166+05:30  INFO 1660 --- [PriceController] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-05-02T12:28:21.183+05:30  INFO 1660 --- [PriceController] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-05-02T12:28:21.191+05:30  INFO 1660 --- [PriceController] [restartedMain] c.blueyonder.PriceControllerApplication  : Started PriceControllerApplication in 0.779 seconds (process running for 897.333)
+2024-05-02T12:28:21.193+05:30  INFO 1660 --- [PriceController] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-05-02T12:28:31.771+05:30  INFO 1660 --- [PriceController] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-05-02T12:28:31.790+05:30  INFO 1660 --- [PriceController] [Thread-15] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-02T12:28:31.792+05:30  INFO 1660 --- [PriceController] [Thread-15] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Shutdown initiated...
+2024-05-02T12:28:31.795+05:30  INFO 1660 --- [PriceController] [Thread-15] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Shutdown completed.
+2024-05-02T12:28:31.948+05:30  INFO 1660 --- [PriceController] [restartedMain] c.blueyonder.PriceControllerApplication  : Starting PriceControllerApplication using Java 17.0.9 with PID 1660 (C:\Users\1037792\Downloads\User\PriceController\PriceController\target\classes started by 1037792 in C:\Users\1037792\Downloads\User\PriceController\PriceController)
+2024-05-02T12:28:31.949+05:30  INFO 1660 --- [PriceController] [restartedMain] c.blueyonder.PriceControllerApplication  : No active profile set, falling back to 1 default profile: "default"
+2024-05-02T12:28:32.082+05:30  INFO 1660 --- [PriceController] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-02T12:28:32.091+05:30  INFO 1660 --- [PriceController] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 9 ms. Found 2 JPA repository interfaces.
+2024-05-02T12:28:32.188+05:30  INFO 1660 --- [PriceController] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-05-02T12:28:32.190+05:30  INFO 1660 --- [PriceController] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-02T12:28:32.190+05:30  INFO 1660 --- [PriceController] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-02T12:28:32.211+05:30  INFO 1660 --- [PriceController] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-05-02T12:28:32.211+05:30  INFO 1660 --- [PriceController] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 260 ms
+2024-05-02T12:28:32.271+05:30  INFO 1660 --- [PriceController] [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-02T12:28:32.272+05:30  INFO 1660 --- [PriceController] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Starting...
+2024-05-02T12:28:32.358+05:30  INFO 1660 --- [PriceController] [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-5 - Added connection org.postgresql.jdbc.PgConnection@540f7282
+2024-05-02T12:28:32.358+05:30  INFO 1660 --- [PriceController] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Start completed.
+2024-05-02T12:28:32.450+05:30  INFO 1660 --- [PriceController] [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-02T12:28:32.543+05:30  WARN 1660 --- [PriceController] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-02T12:28:32.663+05:30  INFO 1660 --- [PriceController] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-05-02T12:28:32.676+05:30  INFO 1660 --- [PriceController] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-05-02T12:28:32.684+05:30  INFO 1660 --- [PriceController] [restartedMain] c.blueyonder.PriceControllerApplication  : Started PriceControllerApplication in 0.766 seconds (process running for 908.826)
+2024-05-02T12:28:32.687+05:30  INFO 1660 --- [PriceController] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-05-02T12:29:39.888+05:30  INFO 1660 --- [PriceController] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-02T12:29:39.896+05:30  INFO 1660 --- [PriceController] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-05-02T12:29:39.896+05:30  INFO 1660 --- [PriceController] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-05-02T12:30:32.697+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : Executed : 2024-05-02T12:30:32.696494
+2024-05-02T12:30:32.705+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:30:32.688800 Last Updated : 2024-05-02T12:30:32.688800
+2024-05-02T12:30:32.705+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:30:32.688800 Last Updated : 2024-05-02T12:30:32.688800
+2024-05-02T12:30:32.705+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:30:32.688800 Last Updated : 2024-05-02T12:30:32.688800
+2024-05-02T12:32:32.728+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : Executed : 2024-05-02T12:32:32.728291900
+2024-05-02T12:32:32.733+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:32:32.720093 Last Updated : 2024-05-02T12:32:32.720093
+2024-05-02T12:32:32.734+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:32:32.720093 Last Updated : 2024-05-02T12:32:32.720093
+2024-05-02T12:32:32.734+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:32:32.720093 Last Updated : 2024-05-02T12:32:32.720093
+2024-05-02T12:34:32.753+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : Executed : 2024-05-02T12:34:32.753215300
+2024-05-02T12:34:32.758+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:34:32.744162 Last Updated : 2024-05-02T12:34:32.744162
+2024-05-02T12:34:32.758+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:34:32.744162 Last Updated : 2024-05-02T12:34:32.744162
+2024-05-02T12:34:32.758+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:34:32.744162 Last Updated : 2024-05-02T12:34:32.744162
+2024-05-02T12:36:32.773+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : Executed : 2024-05-02T12:36:32.773964600
+2024-05-02T12:36:32.778+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:36:32.766828 Last Updated : 2024-05-02T12:36:32.766828
+2024-05-02T12:36:32.780+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:36:32.766828 Last Updated : 2024-05-02T12:36:32.766828
+2024-05-02T12:36:32.780+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:36:32.766828 Last Updated : 2024-05-02T12:36:32.766828
+2024-05-02T12:38:32.795+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : Executed : 2024-05-02T12:38:32.795666900
+2024-05-02T12:38:32.802+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:38:32.786493 Last Updated : 2024-05-02T12:38:32.786493
+2024-05-02T12:38:32.803+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:38:32.786493 Last Updated : 2024-05-02T12:38:32.786493
+2024-05-02T12:38:32.803+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:38:32.786493 Last Updated : 2024-05-02T12:38:32.786493
+2024-05-02T12:40:32.818+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : Executed : 2024-05-02T12:40:32.818325800
+2024-05-02T12:40:32.831+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:40:32.810179 Last Updated : 2024-05-02T12:40:32.810179
+2024-05-02T12:40:32.831+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:40:32.810179 Last Updated : 2024-05-02T12:40:32.810179
+2024-05-02T12:40:32.831+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:40:32.810179 Last Updated : 2024-05-02T12:40:32.810179
+2024-05-02T12:42:32.898+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : Executed : 2024-05-02T12:42:32.898728500
+2024-05-02T12:42:32.906+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:42:32.891834 Last Updated : 2024-05-02T12:42:32.891834
+2024-05-02T12:42:32.906+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:42:32.891834 Last Updated : 2024-05-02T12:42:32.891834
+2024-05-02T12:42:32.906+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:42:32.891834 Last Updated : 2024-05-02T12:42:32.891834
+2024-05-02T12:44:32.920+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : Executed : 2024-05-02T12:44:32.920184600
+2024-05-02T12:44:32.931+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:44:32.913402 Last Updated : 2024-05-02T12:44:32.913402
+2024-05-02T12:44:32.931+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:44:32.913402 Last Updated : 2024-05-02T12:44:32.913402
+2024-05-02T12:44:32.931+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:44:32.913402 Last Updated : 2024-05-02T12:44:32.913402
+2024-05-02T12:46:32.953+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : Executed : 2024-05-02T12:46:32.953365900
+2024-05-02T12:46:32.961+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:46:32.946637 Last Updated : 2024-05-02T12:46:32.946637
+2024-05-02T12:46:32.961+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:46:32.946637 Last Updated : 2024-05-02T12:46:32.946637
+2024-05-02T12:46:32.961+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:46:32.946637 Last Updated : 2024-05-02T12:46:32.946637
+2024-05-02T12:48:32.975+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : Executed : 2024-05-02T12:48:32.975295400
+2024-05-02T12:48:32.979+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:48:32.967708 Last Updated : 2024-05-02T12:48:32.967708
+2024-05-02T12:48:32.980+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:48:32.967708 Last Updated : 2024-05-02T12:48:32.967708
+2024-05-02T12:48:32.980+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:48:32.967708 Last Updated : 2024-05-02T12:48:32.967708
+2024-05-02T12:50:33.002+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : Executed : 2024-05-02T12:50:33.002111700
+2024-05-02T12:50:33.007+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:50:32.993109 Last Updated : 2024-05-02T12:50:32.993109
+2024-05-02T12:50:33.007+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:50:32.993109 Last Updated : 2024-05-02T12:50:32.993109
+2024-05-02T12:50:33.007+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:50:32.993109 Last Updated : 2024-05-02T12:50:32.993109
+2024-05-02T12:52:33.027+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : Executed : 2024-05-02T12:52:33.027425800
+2024-05-02T12:52:33.032+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:52:33.018508 Last Updated : 2024-05-02T12:52:33.018508
+2024-05-02T12:52:33.033+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:52:33.018508 Last Updated : 2024-05-02T12:52:33.018508
+2024-05-02T12:52:33.033+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:52:33.018508 Last Updated : 2024-05-02T12:52:33.018508
+2024-05-02T12:54:33.047+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : Executed : 2024-05-02T12:54:33.047497700
+2024-05-02T12:54:33.052+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:54:33.040156 Last Updated : 2024-05-02T12:54:33.040156
+2024-05-02T12:54:33.053+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:54:33.040156 Last Updated : 2024-05-02T12:54:33.040156
+2024-05-02T12:54:33.053+05:30  INFO 1660 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:54:33.040156 Last Updated : 2024-05-02T12:54:33.040156
+2024-05-02T12:56:21.323+05:30  INFO 1660 --- [PriceController] [RMI TCP Connection(58)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2024-05-02T12:56:21.348+05:30  INFO 1660 --- [PriceController] [RMI TCP Connection(58)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-02T12:56:21.349+05:30  INFO 1660 --- [PriceController] [RMI TCP Connection(58)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Shutdown initiated...
+2024-05-02T12:56:21.352+05:30  INFO 1660 --- [PriceController] [RMI TCP Connection(58)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Shutdown completed.
+2024-05-02T12:56:39.631+05:30  INFO 1504 --- [PriceController] [restartedMain] c.blueyonder.PriceControllerApplication  : Starting PriceControllerApplication using Java 17.0.9 with PID 1504 (C:\Users\1037792\Downloads\User\PriceController\PriceController\target\classes started by 1037792 in C:\Users\1037792\Downloads\User\PriceController\PriceController)
+2024-05-02T12:56:39.634+05:30  INFO 1504 --- [PriceController] [restartedMain] c.blueyonder.PriceControllerApplication  : No active profile set, falling back to 1 default profile: "default"
+2024-05-02T12:56:39.713+05:30  INFO 1504 --- [PriceController] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-02T12:56:39.714+05:30  INFO 1504 --- [PriceController] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-02T12:56:40.594+05:30  INFO 1504 --- [PriceController] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-02T12:56:40.684+05:30  INFO 1504 --- [PriceController] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 74 ms. Found 2 JPA repository interfaces.
+2024-05-02T12:56:41.406+05:30  INFO 1504 --- [PriceController] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-05-02T12:56:41.423+05:30  INFO 1504 --- [PriceController] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-02T12:56:41.424+05:30  INFO 1504 --- [PriceController] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-02T12:56:41.497+05:30  INFO 1504 --- [PriceController] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-05-02T12:56:41.498+05:30  INFO 1504 --- [PriceController] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1784 ms
+2024-05-02T12:56:42.238+05:30  INFO 1504 --- [PriceController] [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-02T12:56:42.279+05:30  INFO 1504 --- [PriceController] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-05-02T12:56:42.520+05:30  INFO 1504 --- [PriceController] [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@3bf9f662
+2024-05-02T12:56:42.523+05:30  INFO 1504 --- [PriceController] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-05-02T12:56:43.993+05:30  INFO 1504 --- [PriceController] [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-02T12:56:44.325+05:30  INFO 1504 --- [PriceController] [restartedMain] o.s.d.j.r.query.QueryEnhancerFactory     : Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-02T12:56:44.454+05:30  WARN 1504 --- [PriceController] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-02T12:56:44.909+05:30  INFO 1504 --- [PriceController] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-05-02T12:56:44.956+05:30  INFO 1504 --- [PriceController] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-05-02T12:56:44.973+05:30  INFO 1504 --- [PriceController] [restartedMain] c.blueyonder.PriceControllerApplication  : Started PriceControllerApplication in 5.905 seconds (process running for 7.059)
+2024-05-02T12:58:45.104+05:30  INFO 1504 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : Executed : 2024-05-02T12:58:45.104325600
+2024-05-02T12:58:45.295+05:30  INFO 1504 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:58:45.089634 Last Updated : 2024-05-02T12:58:45.089634
+2024-05-02T12:58:45.296+05:30  INFO 1504 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:58:45.089634 Last Updated : 2024-05-02T12:58:45.089634
+2024-05-02T12:58:45.296+05:30  INFO 1504 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T12:58:45.089634 Last Updated : 2024-05-02T12:58:45.089634
+2024-05-02T13:00:45.318+05:30  INFO 1504 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : Executed : 2024-05-02T13:00:45.317424100
+2024-05-02T13:00:45.321+05:30  INFO 1504 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T13:00:45.314724 Last Updated : 2024-05-02T13:00:45.314724
+2024-05-02T13:00:45.321+05:30  INFO 1504 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T13:00:45.314724 Last Updated : 2024-05-02T13:00:45.314724
+2024-05-02T13:00:45.321+05:30  INFO 1504 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T13:00:45.314724 Last Updated : 2024-05-02T13:00:45.314724
+2024-05-02T13:02:45.333+05:30  INFO 1504 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : Executed : 2024-05-02T13:02:45.332547700
+2024-05-02T13:02:45.335+05:30  INFO 1504 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T13:02:45.332286 Last Updated : 2024-05-02T13:02:45.332286
+2024-05-02T13:02:45.335+05:30  INFO 1504 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T13:02:45.332286 Last Updated : 2024-05-02T13:02:45.332286
+2024-05-02T13:02:45.335+05:30  INFO 1504 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T13:02:45.332286 Last Updated : 2024-05-02T13:02:45.332286
+2024-05-02T13:04:45.351+05:30  INFO 1504 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : Executed : 2024-05-02T13:04:45.351234100
+2024-05-02T13:04:45.355+05:30  INFO 1504 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T13:04:45.348545 Last Updated : 2024-05-02T13:04:45.348545
+2024-05-02T13:04:45.355+05:30  INFO 1504 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T13:04:45.348545 Last Updated : 2024-05-02T13:04:45.348545
+2024-05-02T13:04:45.356+05:30  INFO 1504 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T13:04:45.348545 Last Updated : 2024-05-02T13:04:45.348545
+2024-05-02T13:06:45.369+05:30  INFO 1504 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : Executed : 2024-05-02T13:06:45.369378
+2024-05-02T13:06:45.373+05:30  INFO 1504 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T13:06:45.368786 Last Updated : 2024-05-02T13:06:45.368786
+2024-05-02T13:06:45.373+05:30  INFO 1504 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T13:06:45.368786 Last Updated : 2024-05-02T13:06:45.368786
+2024-05-02T13:06:45.373+05:30  INFO 1504 --- [PriceController] [scheduling-1] com.blueyonder.service.ProductService    : SOLD QTY : 0 Last Checked : 2024-05-02T13:06:45.368786 Last Updated : 2024-05-02T13:06:45.368786

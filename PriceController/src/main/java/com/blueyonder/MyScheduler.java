@@ -11,7 +11,7 @@ public class MyScheduler {
 	@Autowired
 	private ProductService productService;
 	
-    @Scheduled(initialDelay = 300000, fixedDelay = 300000)
+    @Scheduled(initialDelay = 120000, fixedDelay = 120000)
     public void myMethod() {
     	System.out.println("Executed!......");
         productService.updateProductData();
