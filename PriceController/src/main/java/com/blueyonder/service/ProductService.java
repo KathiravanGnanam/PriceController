@@ -45,19 +45,58 @@ public class ProductService {
 	  }
   }
 
-  public void modify(Long p_id, Long p_qty) {
-    repo.modifyProductQuantity(p_id, p_qty);
+  public int modify(Long p_id, Long p_qty) {
+    return repo.modifyProductQuantity(p_id, p_qty);
   }
+  
+  public int modifybyAdding(Long p_id, Long p_qty) {
+	    return repo.modifyProductQuantitybyAdding(p_id, p_qty);
+	  }
 
-  public ResponseEntity updateProductData(Order order) {
-    for (int i = 0; i < order.getP_id().size(); i++) {
-      modify(order.getP_id().get(i), order.getP_qty().get(i));
-    }
-    return new ResponseEntity(HttpStatus.OK);
+  public ResponseEntity<List<Integer>> updateProductData(Order order) {
+	  
+	  	List<Integer> updatedId=new ArrayList<>();
+	    for (int i = 0; i < order.getP_id().size(); i++) {
+	      updatedId.add(modify(order.getP_id().get(i), order.getP_qty().get(i)));
+	    }
+	    return new ResponseEntity<>(updatedId,HttpStatus.OK);
   }
 
 	public double getPrice(Long p_id) {
 		Optional<Product> product=repo.findById(p_id);
 		return product.get().getPrice();
 	}
+
+	public ResponseEntity<List<Integer>> updateProductDatabyAdd(Order order) {
+		List<Integer> updatedId=new ArrayList<>();
+	    for (int i = 0; i < order.getP_id().size(); i++) {
+	      updatedId.add(modifybyAdding(order.getP_id().get(i), order.getP_qty().get(i)));
+	    }
+	    return new ResponseEntity<>(updatedId,HttpStatus.ACCEPTED);
+	}
+
+	public int getProductQty(Long p_id) {
+		return repo.findById(p_id).get().getTotal_qty();
+	}
+
+	public void deleteById(Long id) {
+		repo.deleteById(id);
+	}
+
+	public List<Product> getProductByRange(double min, double max) {
+		return repo.getProductByRange(min,max);
+	}
+
+	public List<Product> getProductByAsce() {
+		return repo.getProductByAsce();
+	}
+
+	public List<Product> getProductByDesc() {
+		return repo.getProductByDesc();
+	}
+
+	public List<Product> getTopSellingProduct() {
+		return repo.getTopSellingProduct();
+	}
+
 }
