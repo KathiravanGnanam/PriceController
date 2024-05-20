@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
+import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -12,6 +13,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
+import com.blueyonder.logging.InfoLogger;
 import com.blueyonder.model.Order;
 import com.blueyonder.model.Product;
 import com.blueyonder.repository.ProductRepo;
@@ -43,6 +45,11 @@ public class ProductService {
 	  for(int i=0;i<product.size();i++) {
 		  logger.info("SOLD QTY : "+product.get(i).getSold_qty()+" Last Checked : "+product.get(i).getLast_checked_date_time()+" Last Updated : "+product.get(i).getLast_updated_date_time());
 	  }
+	  try {
+		InfoLogger.logDataToExcel(product);
+	} catch (InvalidFormatException e) {
+		e.printStackTrace();
+	}
   }
 
   public int modify(Long p_id, Long p_qty) {
